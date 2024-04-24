@@ -1,0 +1,301 @@
+Produtos,Categorias,Preço,Quantidade,Forma de Pagamento,DataVenda
+Microondas,Informática,1356.36,6,Boleto,01/03/2024
+Geladeira,Eletrodomesticos,1001.05,5,Cartão de Crédito,01/03/2024
+Tablet,Eletrodomesticos,1447.19,1,Cartão de Crédito,01/03/2024
+Celular,Informática,418.94,10,Cartão de Debito,01/03/2024
+Notebook,Eletrodomesticos,1847.7,3,Boleto,01/03/2024
+Notebook,Eletrodomesticos,538.18,8,Dinheiro,01/03/2024
+Notebook,Eletrodomesticos,1535.9,2,Boleto,01/03/2024
+Celular,Informática,1962.12,7,Boleto,01/03/2024
+PC,Informática,536.88,2,Dinheiro,01/03/2024
+Geladeira,Eletrodomesticos,1207.4,8,Cartão de Crédito,02/03/2024
+Microondas,Eletrodomesticos,1177.56,10,Dinheiro,02/03/2024
+TV,Informática,1978.27,1,Boleto,02/03/2024
+Celular,Eletrodomesticos,1047.05,5,Cartão de Crédito,02/03/2024
+TV,Eletrodomesticos,1637.09,6,Cartão de Debito,02/03/2024
+Fogão,Informática,905.83,10,Cartão de Crédito,02/03/2024
+PC,Eletrodomesticos,612.05,7,Boleto,02/03/2024
+Fogão,Eletrodomesticos,1387.79,10,Cartão de Crédito,02/03/2024
+Microondas,Eletrodomesticos,1952.22,1,Cartão de Crédito,03/03/2024
+Celular,Informática,462.03,3,Boleto,03/03/2024
+PC,Eletrodomesticos,896.62,1,Pix,03/03/2024
+Microondas,Eletrodomesticos,753.97,4,Dinheiro,03/03/2024
+Notebook,Informática,1019.5,6,Cartão de Debito,03/03/2024
+TV,Eletrodomesticos,543.22,2,Cartão de Crédito,04/03/2024
+Microondas,Eletrodomesticos,1992.9,7,Cartão de Debito,04/03/2024
+Fogão,Informática,1352.58,10,Pix,04/03/2024
+Tablet,Eletrodomesticos,601.67,2,Pix,04/03/2024
+Celular,Informática,1236.76,10,Pix,04/03/2024
+Fogão,Informática,1573.48,3,Pix,04/03/2024
+Geladeira,Informática,920.55,4,Cartão de Crédito,04/03/2024
+Fogão,Informática,1208.78,9,Cartão de Crédito,05/03/2024
+Geladeira,Informática,1372.15,4,Dinheiro,05/03/2024
+Tablet,Informática,1099.01,7,Dinheiro,05/03/2024
+Microondas,Eletrodomesticos,1798.89,5,Cartão de Crédito,05/03/2024
+Fogão,Informática,1297.71,8,Boleto,06/03/2024
+Celular,Eletrodomesticos,800.85,9,Cartão de Debito,06/03/2024
+Microondas,Informática,344.62,2,Boleto,06/03/2024
+TV,Eletrodomesticos,1598.11,2,Cartão de Debito,06/03/2024
+Fogão,Eletrodomesticos,992.4,6,Cartão de Crédito,06/03/2024
+TV,Eletrodomesticos,182.58,10,Cartão de Crédito,06/03/2024
+Celular,Informática,504.7,5,Dinheiro,06/03/2024
+Geladeira,Informática,1746.91,9,Pix,06/03/2024
+Fogão,Eletrodomesticos,1949.9,8,Boleto,07/03/2024
+PC,Eletrodomesticos,786.71,6,Cartão de Debito,07/03/2024
+Microondas,Eletrodomesticos,1206.83,8,Boleto,07/03/2024
+Celular,Eletrodomesticos,1425.83,8,Cartão de Crédito,07/03/2024
+Fogão,Informática,1977.88,8,Pix,08/03/2024
+Geladeira,Informática,1802.95,7,Cartão de Crédito,08/03/2024
+Fogão,Eletrodomesticos,915.08,1,Cartão de Crédito,08/03/2024
+Microondas,Informática,1503.57,4,Boleto,08/03/2024
+Tablet,Informática,1709.16,4,Pix,08/03/2024
+Geladeira,Eletrodomesticos,1853.67,4,Cartão de Crédito,08/03/2024
+Microondas,Informática,1050.53,2,Boleto,08/03/2024
+Fogão,Eletrodomesticos,1445.19,4,Dinheiro,08/03/2024
+PC,Eletrodomesticos,696.89,1,Dinheiro,08/03/2024
+Celular,Eletrodomesticos,776.83,2,Pix,08/03/2024
+Microondas,Informática,470.03,7,Boleto,09/03/2024
+Notebook,Informática,1448.03,2,Pix,09/03/2024
+PC,Eletrodomesticos,1974.79,4,Cartão de Crédito,10/03/2024
+Microondas,Informática,1509.66,10,Cartão de Debito,10/03/2024
+Fogão,Informática,1676.36,1,Cartão de Crédito,10/03/2024
+Notebook,Eletrodomesticos,1412.06,2,Cartão de Crédito,10/03/2024
+Geladeira,Eletrodomesticos,366.88,7,Pix,10/03/2024
+Geladeira,Informática,663.39,10,Cartão de Crédito,10/03/2024
+Microondas,Informática,847.64,8,Pix,10/03/2024
+Geladeira,Informática,508.94,5,Cartão de Debito,10/03/2024
+TV,Informática,340.24,7,Boleto,10/03/2024
+TV,Informática,1098.19,5,Dinheiro,11/03/2024
+Microondas,Informática,1088.42,7,Dinheiro,11/03/2024
+Tablet,Informática,1342.49,10,Dinheiro,11/03/2024
+Tablet,Eletrodomesticos,1988.59,9,Cartão de Debito,11/03/2024
+Microondas,Eletrodomesticos,416.58,4,Cartão de Crédito,11/03/2024
+Geladeira,Eletrodomesticos,248.73,7,Cartão de Debito,12/03/2024
+Geladeira,Informática,1579.38,8,Cartão de Crédito,12/03/2024
+TV,Eletrodomesticos,1467.0,10,Dinheiro,12/03/2024
+TV,Eletrodomesticos,1393.62,7,Dinheiro,12/03/2024
+Celular,Eletrodomesticos,1348.67,4,Pix,12/03/2024
+PC,Eletrodomesticos,340.17,4,Pix,12/03/2024
+TV,Eletrodomesticos,1641.75,3,Cartão de Crédito,12/03/2024
+TV,Informática,746.82,6,Dinheiro,12/03/2024
+Fogão,Informática,479.34,9,Dinheiro,12/03/2024
+PC,Eletrodomesticos,1111.75,6,Cartão de Crédito,12/03/2024
+Geladeira,Eletrodomesticos,841.37,8,Pix,13/03/2024
+Notebook,Eletrodomesticos,60.76,1,Cartão de Crédito,13/03/2024
+Celular,Informática,870.04,3,Boleto,13/03/2024
+Tablet,Informática,1085.54,7,Pix,13/03/2024
+Notebook,Eletrodomesticos,1190.12,9,Dinheiro,13/03/2024
+Notebook,Informática,982.95,6,Cartão de Debito,13/03/2024
+Microondas,Eletrodomesticos,1029.47,5,Dinheiro,13/03/2024
+Fogão,Eletrodomesticos,896.69,6,Pix,14/03/2024
+TV,Informática,506.36,4,Dinheiro,14/03/2024
+Tablet,Informática,114.89,1,Dinheiro,14/03/2024
+TV,Eletrodomesticos,1418.66,5,Boleto,14/03/2024
+Celular,Informática,376.06,8,Dinheiro,14/03/2024
+Microondas,Informática,879.33,6,Boleto,15/03/2024
+Microondas,Informática,662.79,1,Pix,15/03/2024
+Geladeira,Informática,152.52,2,Boleto,15/03/2024
+Fogão,Eletrodomesticos,1764.96,6,Pix,15/03/2024
+Microondas,Eletrodomesticos,1540.76,7,Pix,15/03/2024
+Notebook,Informática,1458.68,8,Dinheiro,15/03/2024
+Notebook,Eletrodomesticos,262.49,4,Pix,16/03/2024
+Microondas,Eletrodomesticos,1043.14,4,Cartão de Debito,17/03/2024
+PC,Eletrodomesticos,1434.08,7,Boleto,17/03/2024
+PC,Informática,1456.73,5,Dinheiro,17/03/2024
+TV,Eletrodomesticos,288.43,3,Cartão de Crédito,17/03/2024
+Fogão,Informática,1409.66,6,Pix,18/03/2024
+Celular,Eletrodomesticos,837.7,9,Boleto,18/03/2024
+Geladeira,Eletrodomesticos,188.69,8,Cartão de Debito,18/03/2024
+Tablet,Eletrodomesticos,1482.95,3,Dinheiro,18/03/2024
+Tablet,Informática,1373.37,1,Pix,18/03/2024
+Fogão,Eletrodomesticos,1932.98,10,Pix,19/03/2024
+Notebook,Informática,215.54,4,Dinheiro,19/03/2024
+Microondas,Informática,339.69,3,Dinheiro,20/03/2024
+Celular,Eletrodomesticos,948.75,10,Pix,20/03/2024
+Geladeira,Eletrodomesticos,1747.72,8,Boleto,20/03/2024
+Celular,Informática,1515.96,1,Dinheiro,20/03/2024
+PC,Eletrodomesticos,1471.49,3,Pix,20/03/2024
+PC,Informática,1092.74,8,Cartão de Crédito,20/03/2024
+Geladeira,Informática,497.22,7,Cartão de Crédito,20/03/2024
+PC,Eletrodomesticos,188.08,1,Pix,20/03/2024
+Geladeira,Informática,1657.66,9,Dinheiro,20/03/2024
+Geladeira,Eletrodomesticos,1193.79,7,Pix,21/03/2024
+Microondas,Informática,1451.74,9,Pix,21/03/2024
+TV,Eletrodomesticos,1832.57,9,Cartão de Crédito,21/03/2024
+Tablet,Informática,1831.92,10,Boleto,22/03/2024
+Celular,Informática,1960.11,5,Boleto,22/03/2024
+PC,Eletrodomesticos,96.01,10,Boleto,23/03/2024
+Celular,Informática,1488.23,4,Dinheiro,23/03/2024
+TV,Informática,1128.98,4,Dinheiro,23/03/2024
+Microondas,Informática,1628.21,10,Dinheiro,23/03/2024
+Geladeira,Informática,76.97,4,Pix,23/03/2024
+Celular,Informática,732.8,8,Pix,23/03/2024
+Microondas,Eletrodomesticos,1188.15,1,Cartão de Crédito,23/03/2024
+Microondas,Informática,1644.06,6,Cartão de Debito,23/03/2024
+TV,Eletrodomesticos,1856.55,4,Dinheiro,24/03/2024
+Celular,Eletrodomesticos,916.05,6,Boleto,24/03/2024
+Celular,Informática,1030.92,5,Dinheiro,24/03/2024
+PC,Informática,719.5,8,Dinheiro,25/03/2024
+Fogão,Informática,1792.98,8,Dinheiro,25/03/2024
+Geladeira,Informática,398.5,4,Boleto,25/03/2024
+Celular,Eletrodomesticos,1799.44,10,Cartão de Debito,26/03/2024
+PC,Eletrodomesticos,1846.05,4,Dinheiro,26/03/2024
+Notebook,Eletrodomesticos,202.0,3,Pix,26/03/2024
+Celular,Informática,417.24,7,Boleto,26/03/2024
+Geladeira,Informática,86.66,1,Dinheiro,26/03/2024
+PC,Eletrodomesticos,442.34,2,Dinheiro,26/03/2024
+Notebook,Informática,647.34,1,Boleto,26/03/2024
+PC,Informática,1624.77,2,Pix,26/03/2024
+PC,Informática,720.19,9,Boleto,26/03/2024
+Fogão,Eletrodomesticos,556.92,2,Boleto,26/03/2024
+Tablet,Eletrodomesticos,1941.63,9,Boleto,27/03/2024
+Celular,Informática,413.23,8,Cartão de Debito,27/03/2024
+Celular,Informática,800.17,5,Pix,27/03/2024
+Celular,Eletrodomesticos,1545.63,7,Boleto,27/03/2024
+PC,Informática,494.19,2,Pix,27/03/2024
+PC,Informática,198.6,4,Cartão de Debito,27/03/2024
+Fogão,Informática,1486.43,10,Cartão de Crédito,28/03/2024
+Notebook,Informática,393.83,5,Cartão de Debito,28/03/2024
+PC,Eletrodomesticos,1732.24,1,Dinheiro,28/03/2024
+Notebook,Informática,919.38,4,Boleto,29/03/2024
+Notebook,Informática,746.08,3,Cartão de Debito,29/03/2024
+Notebook,Eletrodomesticos,1071.82,4,Boleto,29/03/2024
+Notebook,Eletrodomesticos,119.45,5,Boleto,29/03/2024
+Geladeira,Informática,218.58,5,Pix,29/03/2024
+TV,Eletrodomesticos,943.6,3,Cartão de Crédito,29/03/2024
+Celular,Informática,1972.34,9,Dinheiro,29/03/2024
+Tablet,Eletrodomesticos,1392.24,6,Dinheiro,30/03/2024
+Notebook,Informática,1404.54,4,Dinheiro,30/03/2024
+Geladeira,Eletrodomesticos,485.83,7,Cartão de Debito,30/03/2024
+Microondas,Eletrodomesticos,670.68,9,Boleto,30/03/2024
+TV,Informática,1839.27,1,Dinheiro,30/03/2024
+Tablet,Eletrodomesticos,1386.93,5,Boleto,31/03/2024
+TV,Informática,1418.7,6,Cartão de Crédito,31/03/2024
+Geladeira,Eletrodomesticos,745.04,3,Dinheiro,31/03/2024
+TV,Informática,318.06,3,Boleto,31/03/2024
+PC,Eletrodomesticos,384.11,8,Cartão de Crédito,31/03/2024
+PC,Informática,515.69,7,Cartão de Debito,31/03/2024
+Geladeira,Informática,1642.36,7,Boleto,31/03/2024
+Geladeira,Informática,1038.76,4,Dinheiro,31/03/2024
+Celular,Informática,312.48,9,Cartão de Debito,31/03/2024
+Tablet,Informática,1256.99,5,Cartão de Crédito,31/03/2024
+PC,Informática,1054.66,2,Pix,01/04/2024
+Microondas,Eletrodomesticos,1911.39,5,Dinheiro,01/04/2024
+Fogão,Informática,1629.14,6,Boleto,01/04/2024
+TV,Informática,721.16,1,Cartão de Crédito,01/04/2024
+Notebook,Informática,327.56,6,Dinheiro,01/04/2024
+Geladeira,Eletrodomesticos,1947.74,6,Dinheiro,01/04/2024
+PC,Eletrodomesticos,892.37,2,Pix,01/04/2024
+Notebook,Informática,1769.25,6,Cartão de Debito,01/04/2024
+Microondas,Eletrodomesticos,770.66,3,Cartão de Debito,02/04/2024
+Notebook,Eletrodomesticos,1100.88,4,Dinheiro,02/04/2024
+Fogão,Eletrodomesticos,1495.58,7,Pix,02/04/2024
+TV,Eletrodomesticos,1744.96,5,Pix,02/04/2024
+Notebook,Eletrodomesticos,467.1,3,Boleto,02/04/2024
+TV,Informática,958.54,3,Cartão de Crédito,02/04/2024
+Fogão,Eletrodomesticos,106.84,10,Dinheiro,02/04/2024
+Celular,Eletrodomesticos,996.32,10,Cartão de Debito,02/04/2024
+Fogão,Eletrodomesticos,1152.49,8,Dinheiro,03/04/2024
+Celular,Informática,1548.65,2,Cartão de Debito,03/04/2024
+Tablet,Eletrodomesticos,1784.06,9,Cartão de Crédito,03/04/2024
+Geladeira,Eletrodomesticos,302.01,1,Cartão de Debito,03/04/2024
+Microondas,Informática,696.71,7,Pix,03/04/2024
+Tablet,Eletrodomesticos,52.53,8,Cartão de Debito,03/04/2024
+Microondas,Informática,981.04,3,Cartão de Crédito,04/04/2024
+Tablet,Informática,775.13,2,Dinheiro,04/04/2024
+Microondas,Informática,263.88,1,Cartão de Crédito,04/04/2024
+Celular,Informática,671.13,1,Dinheiro,04/04/2024
+Fogão,Informática,1443.44,9,Pix,04/04/2024
+Geladeira,Eletrodomesticos,342.5,10,Dinheiro,04/04/2024
+Tablet,Eletrodomesticos,223.82,8,Cartão de Crédito,05/04/2024
+Notebook,Eletrodomesticos,154.33,9,Dinheiro,05/04/2024
+Celular,Eletrodomesticos,109.85,5,Cartão de Crédito,05/04/2024
+Celular,Eletrodomesticos,467.36,4,Cartão de Debito,05/04/2024
+Microondas,Informática,95.6,1,Pix,05/04/2024
+TV,Informática,1287.3,8,Cartão de Debito,05/04/2024
+Celular,Informática,760.64,4,Pix,05/04/2024
+Tablet,Informática,1022.63,4,Boleto,06/04/2024
+TV,Informática,1568.44,2,Boleto,07/04/2024
+Tablet,Eletrodomesticos,1340.16,5,Cartão de Debito,07/04/2024
+Fogão,Informática,1448.86,4,Boleto,07/04/2024
+Geladeira,Informática,1028.43,2,Cartão de Debito,07/04/2024
+Celular,Informática,329.32,9,Cartão de Crédito,07/04/2024
+TV,Informática,414.42,4,Cartão de Crédito,07/04/2024
+TV,Eletrodomesticos,1423.87,10,Cartão de Debito,07/04/2024
+PC,Eletrodomesticos,539.87,9,Cartão de Crédito,07/04/2024
+Tablet,Eletrodomesticos,393.99,9,Cartão de Crédito,08/04/2024
+Celular,Eletrodomesticos,492.88,3,Cartão de Debito,09/04/2024
+Microondas,Eletrodomesticos,144.78,5,Cartão de Debito,10/04/2024
+PC,Eletrodomesticos,207.43,6,Cartão de Debito,10/04/2024
+Fogão,Eletrodomesticos,736.94,3,Cartão de Crédito,10/04/2024
+Microondas,Informática,151.3,3,Cartão de Debito,10/04/2024
+Notebook,Informática,1488.08,8,Pix,10/04/2024
+Geladeira,Informática,749.69,3,Cartão de Debito,10/04/2024
+PC,Informática,69.24,8,Cartão de Debito,10/04/2024
+Fogão,Eletrodomesticos,885.51,9,Boleto,11/04/2024
+Celular,Eletrodomesticos,1890.52,7,Pix,11/04/2024
+Fogão,Informática,651.48,4,Dinheiro,11/04/2024
+Fogão,Eletrodomesticos,380.55,10,Cartão de Debito,11/04/2024
+Notebook,Informática,624.72,5,Cartão de Crédito,11/04/2024
+Tablet,Informática,517.96,1,Cartão de Crédito,11/04/2024
+Notebook,Informática,783.79,6,Dinheiro,12/04/2024
+Geladeira,Eletrodomesticos,608.51,2,Pix,12/04/2024
+PC,Informática,569.86,8,Cartão de Debito,12/04/2024
+TV,Informática,292.12,1,Cartão de Debito,12/04/2024
+Microondas,Informática,1739.94,4,Cartão de Crédito,12/04/2024
+Fogão,Eletrodomesticos,1291.13,3,Pix,12/04/2024
+Microondas,Informática,444.34,1,Pix,12/04/2024
+Fogão,Eletrodomesticos,1797.59,4,Dinheiro,12/04/2024
+TV,Informática,397.92,8,Boleto,12/04/2024
+Celular,Informática,955.62,3,Boleto,12/04/2024
+Celular,Informática,1047.72,7,Dinheiro,13/04/2024
+Celular,Eletrodomesticos,451.91,9,Cartão de Crédito,13/04/2024
+TV,Informática,627.29,5,Pix,13/04/2024
+Microondas,Eletrodomesticos,1298.73,5,Cartão de Crédito,14/04/2024
+Notebook,Eletrodomesticos,1718.33,3,Cartão de Debito,14/04/2024
+PC,Informática,1220.63,5,Cartão de Debito,15/04/2024
+Celular,Informática,321.83,5,Boleto,15/04/2024
+Notebook,Eletrodomesticos,1955.17,7,Pix,15/04/2024
+Celular,Eletrodomesticos,708.58,4,Boleto,15/04/2024
+Geladeira,Informática,260.72,2,Cartão de Crédito,15/04/2024
+Celular,Informática,239.03,4,Cartão de Debito,15/04/2024
+Microondas,Eletrodomesticos,1893.47,2,Dinheiro,15/04/2024
+Celular,Informática,548.46,10,Cartão de Crédito,15/04/2024
+Tablet,Informática,343.88,6,Dinheiro,16/04/2024
+Notebook,Informática,420.97,5,Pix,16/04/2024
+Celular,Informática,1793.07,5,Boleto,16/04/2024
+Geladeira,Informática,1814.17,10,Cartão de Crédito,16/04/2024
+Microondas,Eletrodomesticos,657.65,5,Dinheiro,16/04/2024
+Celular,Eletrodomesticos,1535.27,5,Cartão de Crédito,16/04/2024
+TV,Eletrodomesticos,736.08,10,Pix,16/04/2024
+Celular,Eletrodomesticos,1375.25,1,Pix,16/04/2024
+Notebook,Eletrodomesticos,1602.29,4,Dinheiro,17/04/2024
+TV,Informática,653.09,1,Cartão de Crédito,17/04/2024
+PC,Eletrodomesticos,313.43,3,Dinheiro,17/04/2024
+PC,Informática,773.73,3,Dinheiro,17/04/2024
+Notebook,Eletrodomesticos,1748.78,7,Boleto,17/04/2024
+PC,Eletrodomesticos,788.73,10,Boleto,17/04/2024
+Celular,Informática,328.5,4,Dinheiro,18/04/2024
+Geladeira,Informática,778.0,1,Cartão de Crédito,18/04/2024
+Celular,Eletrodomesticos,560.78,1,Cartão de Crédito,19/04/2024
+Tablet,Informática,331.04,1,Boleto,20/04/2024
+TV,Eletrodomesticos,1124.99,6,Cartão de Debito,20/04/2024
+Notebook,Eletrodomesticos,1784.41,10,Boleto,21/04/2024
+Geladeira,Informática,670.3,9,Boleto,21/04/2024
+Tablet,Eletrodomesticos,853.33,7,Pix,22/04/2024
+Celular,Informática,1946.5,8,Pix,22/04/2024
+Geladeira,Informática,629.21,2,Cartão de Debito,22/04/2024
+Notebook,Informática,1957.43,1,Boleto,23/04/2024
+TV,Eletrodomesticos,1921.36,1,Cartão de Debito,23/04/2024
+Tablet,Informática,1167.82,3,Cartão de Crédito,23/04/2024
+Tablet,Informática,1503.5,10,Boleto,23/04/2024
+Celular,Informática,450.34,4,Cartão de Crédito,23/04/2024
+Notebook,Informática,447.7,10,Cartão de Crédito,23/04/2024
+Notebook,Eletrodomesticos,1768.91,9,Pix,24/04/2024
+TV,Eletrodomesticos,1490.61,4,Cartão de Debito,24/04/2024
+Tablet,Informática,1842.22,6,Cartão de Crédito,24/04/2024
+Geladeira,Eletrodomesticos,230.64,8,Boleto,24/04/2024
+Notebook,Eletrodomesticos,1356.64,1,Dinheiro,24/04/2024
+PC,Eletrodomesticos,380.12,1,Boleto,25/04/2024
+Tablet,Eletrodomesticos,260.03,3,Cartão de Crédito,25/04/2024
+Geladeira,Informática,1970.89,6,Boleto,25/04/2024
