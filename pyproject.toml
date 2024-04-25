@@ -12,8 +12,14 @@ matplotlib = "^3.8.4"
 plotly = "^5.21.0"
 mkdocs = "^1.6.0"
 mkdocstrings = {extras = ["python"], version = "^0.24.3"}
+taskipy = "^1.12.2"
 
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.taskipy.tasks]
+run = 'streamlit run app.py'
+doc = 'mkdocs serve'
+gerar = 'python gerador.py'
