@@ -13,14 +13,14 @@ def carregar_dados():
 def main():
     st.set_page_config(
         page_title="Sistema de Vendas - DH",
-        page_icon="🛒",
+        page_icon=":bar_chart:",
         layout="wide",
     )
     st.set_option("deprecation.showPyplotGlobalUse", False)
     st.title("Sistema de Vendas - DH")
     data_atual = datetime.now().strftime("%d/%m/%Y")
 
-    with st.expander("🛒 Registrar Venda:"):
+    with st.expander("🛒 Finalizar Venda:"):
         with st.form("Registro de Venda"):
             produto = st.selectbox(
                 "Selecione o Produto",
